@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @domenicaduran, Certified Public Accountant
 - 👀 I’m interested in the intersection between and accounting and IT. 
-- 🌱 I’m currently learning The Odin Project's programming fundamentals.
+- 🌱 I’m currently learning Python and Data Analytics in Coursera
 - 💞️ I’m looking to collaborate on how month end financial closing processes can be improved by my knowledge in accounting and my increasing knowledge in programming.
 - 📫 How to reach me: please email me at domenicaduran@gmail.com
 
